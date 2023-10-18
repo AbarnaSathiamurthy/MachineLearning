@@ -1,6 +1,6 @@
 # Comparing Ensemble Learning Algorithms
 
-This repository is dedicated to comparing the results of using 3 classification algorithms in machine learning, which was done as a credit of our machine learning course this semester by me and my teammates.
+This repository is dedicated to comparing the results of using 3 classification algorithms (Random Forest, XGBoost & AdaBoost) in machine learning, which was done as a credit of our machine learning course this semester by me and my teammates.
 
 Problem Statement
 
